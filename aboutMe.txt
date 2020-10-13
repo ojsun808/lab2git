@@ -2,3 +2,10 @@ Name: Orion Sun
 Major: COEN
 Year: 2021
 Hobbies: Minesweeper
+
+Fall 2020 Courses:
+- COEN 174
+- COEN 140
+- MATH 197
+- COEN 194
+- COEN 296
